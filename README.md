@@ -11,6 +11,7 @@ print("Cookies, Champagne e uns codiguis!")
 📸 Fotógrafa, Designer & Tattoo Artist nas horas vagas 😀    
 👶 Mãe do Erikinho 💓  
 👩🏼‍💻 Comecei a aprender HTML, CSS e Javascript
+📍Viana do Castelo, Portugal
 
 [![Twitter](https://img.shields.io/badge/%F0%9F%A6%84-Twitter-00ccff)](https://twitter.com/karlamagueta) 
 [![Twitch](https://img.shields.io/badge/%F0%9F%A6%84-Twitch-blueviolet)](https://www.twitch.tv/karlamag) 
