@@ -10,7 +10,7 @@ print("Cookies, Champagne e uns codiguis!")
 💍 Casada com @codeshow    
 📸 Fotógrafa, Designer & Tattoo Artist nas horas vagas 😀    
 👶 Mãe do Erikinho 💓  
-👩🏼‍💻 Comecei a aprender HTML, CSS e Javascript
+👩🏼‍💻 Comecei a aprender HTML, CSS e Javascript <br>
 📍Viana do Castelo, Portugal
 
 [![Twitter](https://img.shields.io/badge/%F0%9F%A6%84-Twitter-00ccff)](https://twitter.com/karlamagueta) 
