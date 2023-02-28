@@ -10,7 +10,7 @@
 💍 Casada com @codeshow    
 📸 Fotógrafa, Designer 😀    
 👶 Mãe do Erikinho 💓  
-👩🏼‍💻 Comecei a aprender HTML, CSS <br>
+👩🏻‍💻 HTML, CSS
 📍Viana do Castelo, Portugal
 
 [![Twitter](https://img.shields.io/badge/%F0%9F%A6%84-Twitter-00ccff)](https://twitter.com/karlamagueta) 
