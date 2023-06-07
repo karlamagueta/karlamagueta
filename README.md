@@ -7,7 +7,7 @@
 
 ```
 🥑 Vegetariana   
-💍 Casada com @codeshow    
+💍 Casada com @rochacbruno    
 📸 Fotógrafa, Designer 😀    
 👶 Mãe do Erikinho 💓  
 👩🏻‍💻 HTML, CSS <br>
