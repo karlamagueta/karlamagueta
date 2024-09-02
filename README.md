@@ -10,7 +10,7 @@
 💍 Casada com @rochacbruno    
 📸 Fotógrafa, Designer 😀    
 👶 Mãe do Erikinho 💓  
-👩🏻‍💻 HTML, CSS <br>
+👩🏻‍💻 Ui/Ux Designer | HTML | CSS <br>
 📍Viana do Castelo, Portugal
 
 [![Twitter](https://img.shields.io/badge/%F0%9F%A6%84-Twitter-00ccff)](https://twitter.com/karlamagueta) 
