@@ -13,5 +13,5 @@ Hi, I'm Karla!
 📍Viana do Castelo, Portugal
 ```
 ##Hacktoberfest Badges
-[![An image of @karlamagueta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karlamagueta)](https://holopin.io/@karlamagueta)
 
+[![An image of @karlamagueta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karlamagueta)](https://holopin.io/@karlamagueta)
